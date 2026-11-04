@@ -1,0 +1,991 @@
+{
+  "1": {
+    "semester": 1,
+    "total_bb": "15",
+    "total_tc": "1",
+    "courses_count": 9,
+    "courses": [
+      {
+        "stt": 1,
+        "code": "FL211011",
+        "name": "Tiếng Anh",
+        "numbers": [
+          "1",
+          "3",
+          "3",
+          "0",
+          "3"
+        ]
+      },
+      {
+        "stt": 2,
+        "code": "KC211027",
+        "name": "Tin học đại cương",
+        "numbers": [
+          "2",
+          "1",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "stt": 3,
+        "code": "KC211685",
+        "name": "Toán cho Công nghệ thông tin",
+        "numbers": [
+          "2",
+          "2",
+          "0",
+          "2"
+        ]
+      },
+      {
+        "stt": 4,
+        "code": "KC212604",
+        "name": "Kỹ thuật lập trình",
+        "numbers": [
+          "2",
+          "2",
+          "0",
+          "2"
+        ]
+      },
+      {
+        "stt": 5,
+        "code": "KC212681",
+        "name": "Nhập môn ngành công nghệ thông tin",
+        "numbers": [
+          "2",
+          "1",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "stt": 6,
+        "code": "KC212682",
+        "name": "Thực hành Kỹ thuật lập trình",
+        "numbers": [
+          "2",
+          "0",
+          "2",
+          "2"
+        ]
+      },
+      {
+        "stt": 7,
+        "code": "KT212202",
+        "name": "Kỹ năng mềm",
+        "numbers": [
+          "2",
+          "2",
+          "0",
+          "2"
+        ]
+      },
+      {
+        "stt": 8,
+        "code": "SP211032",
+        "name": "Thể dục cơ bản và điền kinh",
+        "numbers": [
+          "1",
+          "0",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "stt": 9,
+        "code": "SP211039",
+        "name": "Cờ vua",
+        "numbers": [
+          "1",
+          "1",
+          "0",
+          "1"
+        ]
+      }
+    ]
+  },
+  "2": {
+    "semester": 2,
+    "total_bb": "13",
+    "total_tc": "3",
+    "courses_count": 12,
+    "courses": [
+      {
+        "stt": 1,
+        "code": "FL211012",
+        "name": "Tiếng Anh",
+        "numbers": [
+          "2",
+          "3",
+          "3",
+          "0",
+          "3"
+        ]
+      },
+      {
+        "stt": 2,
+        "code": "KC211604",
+        "name": "Lý thuyết thông tin",
+        "numbers": [
+          "2",
+          "2",
+          "0",
+          "2"
+        ]
+      },
+      {
+        "stt": 3,
+        "code": "KC212601",
+        "name": "Cấu trúc rời rạc",
+        "numbers": [
+          "2",
+          "2",
+          "0",
+          "2"
+        ]
+      },
+      {
+        "stt": 4,
+        "code": "KC212602",
+        "name": "Tổ chức máy tính",
+        "numbers": [
+          "3",
+          "2",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "stt": 5,
+        "code": "KC215037",
+        "name": "Cấu trúc dữ liệu và giải thuật",
+        "numbers": [
+          "3",
+          "2",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "stt": 6,
+        "code": "NL211702",
+        "name": "Pháp luật Việt Nam đại cương",
+        "numbers": [
+          "2",
+          "2",
+          "0",
+          "2"
+        ]
+      },
+      {
+        "stt": 7,
+        "code": "SP211006",
+        "name": "Xã hội học đại cương",
+        "numbers": [
+          "2",
+          "2",
+          "0"
+        ]
+      },
+      {
+        "stt": 8,
+        "code": "SP211033",
+        "name": "Bóng chuyền cơ bản",
+        "numbers": [
+          "1",
+          "0",
+          "1"
+        ]
+      },
+      {
+        "stt": 9,
+        "code": "SP211034",
+        "name": "Bơi lội cơ bản",
+        "numbers": [
+          "1",
+          "0",
+          "1"
+        ]
+      },
+      {
+        "stt": 10,
+        "code": "SP211035",
+        "name": "Cầu lông cơ bản",
+        "numbers": [
+          "1",
+          "0",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "stt": 11,
+        "code": "SP211040",
+        "name": "Cờ vua",
+        "numbers": [
+          "2",
+          "1",
+          "0",
+          "1"
+        ]
+      },
+      {
+        "stt": 12,
+        "code": "SP211042",
+        "name": "Bóng bàn cơ bản",
+        "numbers": [
+          "1",
+          "0",
+          "1"
+        ]
+      }
+    ]
+  },
+  "3": {
+    "semester": 3,
+    "total_bb": "13",
+    "total_tc": "4",
+    "courses_count": 12,
+    "courses": [
+      {
+        "stt": 1,
+        "code": "FL211013",
+        "name": "Tiếng Anh",
+        "numbers": [
+          "3",
+          "3",
+          "3",
+          "0",
+          "3"
+        ]
+      },
+      {
+        "stt": 2,
+        "code": "KC212605",
+        "name": "Cơ sở dữ liệu",
+        "numbers": [
+          "3",
+          "2",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "stt": 3,
+        "code": "KC212686",
+        "name": "Thực tế nghề nghiệp",
+        "numbers": [
+          "1",
+          "0",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "stt": 4,
+        "code": "KC215039",
+        "name": "Nhập môn mạng máy tính",
+        "numbers": [
+          "3",
+          "2",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "stt": 5,
+        "code": "ML211030",
+        "name": "Triết học Mác - Lênin",
+        "numbers": [
+          "3",
+          "3",
+          "0",
+          "3"
+        ]
+      },
+      {
+        "stt": 6,
+        "code": "KC213611",
+        "name": "Lập trình hướng đối tượng",
+        "numbers": [
+          "3",
+          "2",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "stt": 7,
+        "code": "KC215040",
+        "name": "Lập trình Windows",
+        "numbers": [
+          "3",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "stt": 8,
+        "code": "SP211036",
+        "name": "Thể dục nhịp điệu cơ bản",
+        "numbers": [
+          "1",
+          "0",
+          "1"
+        ]
+      },
+      {
+        "stt": 9,
+        "code": "SP211037",
+        "name": "Taekwondo cơ bản",
+        "numbers": [
+          "1",
+          "0",
+          "1"
+        ]
+      },
+      {
+        "stt": 10,
+        "code": "SP211038",
+        "name": "Bóng đá cơ bản",
+        "numbers": [
+          "1",
+          "0",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "stt": 11,
+        "code": "SP211041",
+        "name": "Cờ vua",
+        "numbers": [
+          "3",
+          "1",
+          "0",
+          "1"
+        ]
+      },
+      {
+        "stt": 12,
+        "code": "SP211043",
+        "name": "Bóng rổ cơ bản",
+        "numbers": [
+          "1",
+          "0",
+          "1"
+        ]
+      }
+    ]
+  },
+  "4": {
+    "semester": 4,
+    "total_bb": "18",
+    "total_tc": "0",
+    "courses_count": 7,
+    "courses": [
+      {
+        "stt": 1,
+        "code": "FL211014",
+        "name": "Tiếng Anh",
+        "numbers": [
+          "4",
+          "3",
+          "3",
+          "0",
+          "3"
+        ]
+      },
+      {
+        "stt": 2,
+        "code": "KC211006",
+        "name": "Xác suất thống kê",
+        "numbers": [
+          "2",
+          "2",
+          "0",
+          "2"
+        ]
+      },
+      {
+        "stt": 3,
+        "code": "KC213608",
+        "name": "Nhập môn kỹ nghệ phần mềm",
+        "numbers": [
+          "3",
+          "2",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "stt": 4,
+        "code": "KC215036",
+        "name": "Phương pháp nghiên cứu khoa học CNTT",
+        "numbers": [
+          "2",
+          "2",
+          "0",
+          "2"
+        ]
+      },
+      {
+        "stt": 5,
+        "code": "KC215038",
+        "name": "Thiết kế và lập trình Web cơ bản",
+        "numbers": [
+          "3",
+          "2",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "stt": 6,
+        "code": "KC215042",
+        "name": "Lập trình Python",
+        "numbers": [
+          "3",
+          "2",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "stt": 7,
+        "code": "ML211031",
+        "name": "Kinh tế chính trị Mác - Lênin",
+        "numbers": [
+          "2",
+          "2",
+          "0",
+          "2"
+        ]
+      }
+    ]
+  },
+  "5": {
+    "semester": 5,
+    "total_bb": "17",
+    "total_tc": "0",
+    "courses_count": 7,
+    "courses": [
+      {
+        "stt": 1,
+        "code": "KC211615",
+        "name": "Tiếng Anh Chuyên ngành CNTT",
+        "numbers": [
+          "2",
+          "2",
+          "0",
+          "2"
+        ]
+      },
+      {
+        "stt": 2,
+        "code": "KC211682",
+        "name": "Cơ sở vật lý cho Tin học",
+        "numbers": [
+          "2",
+          "1",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "stt": 3,
+        "code": "KC213607",
+        "name": "Phân tích thiết kế hệ thống",
+        "numbers": [
+          "3",
+          "2",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "stt": 4,
+        "code": "KC213682",
+        "name": "Hệ quản trị cơ sở dữ liệu",
+        "numbers": [
+          "3",
+          "2",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "stt": 5,
+        "code": "KC215044",
+        "name": "Thiết kế và lập trình Web nâng cao",
+        "numbers": [
+          "3",
+          "2",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "stt": 6,
+        "code": "KT213007",
+        "name": "Khởi nghiệp",
+        "numbers": [
+          "2",
+          "1.5",
+          "0.5",
+          "2"
+        ]
+      },
+      {
+        "stt": 7,
+        "code": "ML211032",
+        "name": "Chủ nghĩa xã hội khoa học",
+        "numbers": [
+          "2",
+          "2",
+          "0",
+          "2"
+        ]
+      }
+    ]
+  },
+  "6": {
+    "semester": 6,
+    "total_bb": "20",
+    "total_tc": "2",
+    "courses_count": 11,
+    "courses": [
+      {
+        "stt": 1,
+        "code": "KC213609",
+        "name": "Trí tuệ nhân tạo",
+        "numbers": [
+          "2",
+          "2",
+          "0",
+          "2"
+        ]
+      },
+      {
+        "stt": 2,
+        "code": "KC213667",
+        "name": "Nhập môn Hệ điều hành",
+        "numbers": [
+          "2",
+          "2",
+          "0",
+          "2"
+        ]
+      },
+      {
+        "stt": 3,
+        "code": "KC215041",
+        "name": "Xử lý ảnh số",
+        "numbers": [
+          "3",
+          "2",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "stt": 4,
+        "code": "KC215043",
+        "name": "Lập trình ứng dụng mã nguồn mở",
+        "numbers": [
+          "3",
+          "2",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "stt": 5,
+        "code": "ML211002",
+        "name": "Tư tưởng Hồ Chí Minh",
+        "numbers": [
+          "2",
+          "1.5",
+          "0.5",
+          "2"
+        ]
+      },
+      {
+        "stt": 6,
+        "code": "QP211006",
+        "name": "Công tác quốc phòng - An ninh Đường lối quốc phòng và an ninh của Đảng",
+        "numbers": [
+          "2",
+          "2",
+          "0",
+          "2"
+        ]
+      },
+      {
+        "stt": 7,
+        "code": "QP211011",
+        "name": "Cộng sản Việt Nam",
+        "numbers": [
+          "3",
+          "3",
+          "0",
+          "3"
+        ]
+      },
+      {
+        "stt": 8,
+        "code": "QP211012",
+        "name": "Quân sự chung",
+        "numbers": [
+          "1",
+          "0.7",
+          "0.3",
+          "1"
+        ]
+      },
+      {
+        "stt": 9,
+        "code": "QP211013",
+        "name": "Kỹ thuật chiến đấu bộ binh và chiến thuật",
+        "numbers": [
+          "2",
+          "0",
+          "2",
+          "2"
+        ]
+      },
+      {
+        "stt": 10,
+        "code": "KC213629",
+        "name": "Phát triển phần mềm hướng đối tượng",
+        "numbers": [
+          "2",
+          "2",
+          "0",
+          "2"
+        ]
+      },
+      {
+        "stt": 11,
+        "code": "KC213633",
+        "name": "Các quy trình phát triển phần mềm hiện đại",
+        "numbers": [
+          "2",
+          "2",
+          "0"
+        ]
+      }
+    ]
+  },
+  "7": {
+    "semester": 7,
+    "total_bb": "6",
+    "total_tc": "12",
+    "courses_count": 20,
+    "courses": [
+      {
+        "stt": 1,
+        "code": "KC213613",
+        "name": "An toàn thông tin",
+        "numbers": [
+          "2",
+          "2",
+          "0",
+          "2"
+        ]
+      },
+      {
+        "stt": 2,
+        "code": "KC213685",
+        "name": "Những vấn đề hiện đại của CNTT",
+        "numbers": [
+          "2",
+          "2",
+          "0",
+          "2"
+        ]
+      },
+      {
+        "stt": 3,
+        "code": "ML211033",
+        "name": "Lịch sử Đảng Cộng sản Việt Nam",
+        "numbers": [
+          "2",
+          "1.4",
+          "0.6",
+          "2"
+        ]
+      },
+      {
+        "stt": 4,
+        "code": "KC213619",
+        "name": "Lập trình mạng",
+        "numbers": [
+          "2",
+          "2",
+          "0"
+        ]
+      },
+      {
+        "stt": 5,
+        "code": "KC213661",
+        "name": "Quản trị mạng Linux",
+        "numbers": [
+          "2",
+          "2",
+          "0",
+          "2"
+        ]
+      },
+      {
+        "stt": 6,
+        "code": "KC213668",
+        "name": "Quản trị mạng trên môi trường Windows",
+        "numbers": [
+          "2",
+          "2",
+          "0"
+        ]
+      },
+      {
+        "stt": 8,
+        "code": "KC213630",
+        "name": "Quản lý dự án CN thông tin",
+        "numbers": [
+          "2",
+          "2",
+          "0"
+        ]
+      },
+      {
+        "stt": 9,
+        "code": "KC213635",
+        "name": "CSDL phân tán",
+        "numbers": [
+          "2",
+          "2",
+          "0"
+        ]
+      },
+      {
+        "stt": 10,
+        "code": "KC213676",
+        "name": "Đảm bảo chất lượng phần mềm",
+        "numbers": [
+          "2",
+          "2",
+          "0",
+          "2"
+        ]
+      },
+      {
+        "stt": 12,
+        "code": "KC213678",
+        "name": "Thương mại điện tử",
+        "numbers": [
+          "2",
+          "2",
+          "0"
+        ]
+      },
+      {
+        "stt": 13,
+        "code": "KC215046",
+        "name": "Lập trình di động",
+        "numbers": [
+          "3",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "stt": 14,
+        "code": "KC215047",
+        "name": "Phát triển ứng dụng web",
+        "numbers": [
+          "3",
+          "2",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "stt": 15,
+        "code": "KC215048",
+        "name": "Kiểm thử phần mềm",
+        "numbers": [
+          "3",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "stt": 16,
+        "code": "KC215049",
+        "name": "Hệ quản trị CSDL NoSQL Công nghệ lập trình đa nền tảng cho ứng dụng",
+        "numbers": [
+          "3",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "stt": 17,
+        "code": "KC215050",
+        "name": "di động",
+        "numbers": [
+          "3",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "stt": 18,
+        "code": "KC215051",
+        "name": "Thiết kế mạng",
+        "numbers": [
+          "3",
+          "2",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "stt": 19,
+        "code": "KC215052",
+        "name": "Điện toán đám mây",
+        "numbers": [
+          "3",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "stt": 20,
+        "code": "SP211001",
+        "name": "Tiếng Việt thực hành",
+        "numbers": [
+          "2",
+          "2",
+          "0"
+        ]
+      },
+      {
+        "stt": 21,
+        "code": "SP211003",
+        "name": "Cơ sở văn hóa Việt Nam",
+        "numbers": [
+          "2",
+          "1.5",
+          "0.5",
+          "2"
+        ]
+      },
+      {
+        "stt": 22,
+        "code": "SP211014",
+        "name": "Tâm lý học đại cương",
+        "numbers": [
+          "2",
+          "2",
+          "0"
+        ]
+      }
+    ]
+  },
+  "8": {
+    "semester": 8,
+    "total_bb": "5",
+    "total_tc": "10",
+    "courses_count": 8,
+    "courses": [
+      {
+        "stt": 1,
+        "code": "KC215045",
+        "name": "Thực tập nghề nghiệp",
+        "numbers": [
+          "5",
+          "0",
+          "5",
+          "5"
+        ]
+      },
+      {
+        "stt": 2,
+        "code": "KC215698",
+        "name": "Chuyên đề tốt nghiệp",
+        "numbers": [
+          "4",
+          "0",
+          "4",
+          "4"
+        ]
+      },
+      {
+        "stt": 3,
+        "code": "KC215699",
+        "name": "Khóa luận tốt nghiệp",
+        "numbers": [
+          "10",
+          "0",
+          "10",
+          "10"
+        ]
+      },
+      {
+        "stt": 4,
+        "code": "KC213647",
+        "name": "Khai phá dữ liệu",
+        "numbers": [
+          "2",
+          "2",
+          "0"
+        ]
+      },
+      {
+        "stt": 5,
+        "code": "KC213660",
+        "name": "Digital marketing",
+        "numbers": [
+          "2",
+          "2",
+          "0"
+        ]
+      },
+      {
+        "stt": 6,
+        "code": "KC213669",
+        "name": "Phát triển ứng dụng Internet of Things",
+        "numbers": [
+          "2",
+          "2",
+          "0",
+          "6"
+        ]
+      },
+      {
+        "stt": 7,
+        "code": "KC213696",
+        "name": "Phân tích dữ liệu",
+        "numbers": [
+          "2",
+          "2",
+          "0"
+        ]
+      },
+      {
+        "stt": 8,
+        "code": "KC217003",
+        "name": "Công nghệ .Net",
+        "numbers": [
+          "2",
+          "2",
+          "0"
+        ]
+      }
+    ]
+  }
+}

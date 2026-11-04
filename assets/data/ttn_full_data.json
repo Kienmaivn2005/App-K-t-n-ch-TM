@@ -1,0 +1,3757 @@
+{
+  "university": "Trường Đại học Tây Nguyên (Tây Nguyên University - TTN)",
+  "crawledAt": "2026-10-22 17:09:02",
+  "totalStudents": 44,
+  "totalCourses": 9,
+  "totalLecturers": 8,
+  "totalRooms": 10,
+  "rooms": [
+    "2.4",
+    "6.11",
+    "6.12",
+    "6.14",
+    "6.9",
+    "7.3.18",
+    "8.1.7",
+    "9.2.14",
+    "9.3.22",
+    "Online"
+  ],
+  "lecturers": {
+    "Đoàn Văn Kỳ": [
+      "LS Đảng CS VN"
+    ],
+    "Lê Tô Đỗ Quyên": [
+      "Tâm lý học đại cương"
+    ],
+    "Trương Thị Hương Giang": [
+      "Lập trình di động",
+      "Những VĐ HĐ của CNTT"
+    ],
+    "Nguyễn Thị Như": [
+      "TA chuyên ngành CNTT"
+    ],
+    "Hà Lê Hồng Hoa": [
+      "Tiếng Anh 3"
+    ],
+    "Nguyễn Thị Mỹ Liên": [
+      "Tiếng Anh 2"
+    ],
+    "Trương Hải": [
+      "Cơ sở dữ liệu"
+    ],
+    "Đoàn Thị Dung": [
+      "Tiếng Anh 1"
+    ]
+  },
+  "courses": {
+    "LS Đảng CS VN": {
+      "name": "LS Đảng CS VN",
+      "lecturers": [
+        "Đoàn Văn Kỳ"
+      ],
+      "rooms": [
+        "6.11"
+      ],
+      "slots": [
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "6.11",
+          "lecturer": "Đoàn Văn Kỳ"
+        }
+      ]
+    },
+    "Tâm lý học đại cương": {
+      "name": "Tâm lý học đại cương",
+      "lecturers": [
+        "Lê Tô Đỗ Quyên"
+      ],
+      "rooms": [
+        "2.4"
+      ],
+      "slots": [
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "2.4",
+          "lecturer": "Lê Tô Đỗ Quyên"
+        }
+      ]
+    },
+    "Lập trình di động": {
+      "name": "Lập trình di động",
+      "lecturers": [
+        "Trương Thị Hương Giang"
+      ],
+      "rooms": [
+        "7.3.18"
+      ],
+      "slots": [
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 4,
+          "period": "1-4",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        }
+      ]
+    },
+    "Những VĐ HĐ của CNTT": {
+      "name": "Những VĐ HĐ của CNTT",
+      "lecturers": [
+        "Trương Thị Hương Giang"
+      ],
+      "rooms": [
+        "7.3.18"
+      ],
+      "slots": [
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-3",
+          "room": "7.3.18",
+          "lecturer": "Trương Thị Hương Giang"
+        }
+      ]
+    },
+    "TA chuyên ngành CNTT": {
+      "name": "TA chuyên ngành CNTT",
+      "lecturers": [
+        "Nguyễn Thị Như"
+      ],
+      "rooms": [
+        "6.14",
+        "6.9"
+      ],
+      "slots": [
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-4",
+          "room": "6.9",
+          "lecturer": "Nguyễn Thị Như"
+        },
+        {
+          "session": "Chiều",
+          "dayIndex": 6,
+          "period": "9-10",
+          "room": "6.14",
+          "lecturer": "Nguyễn Thị Như"
+        }
+      ]
+    },
+    "Tiếng Anh 3": {
+      "name": "Tiếng Anh 3",
+      "lecturers": [
+        "Hà Lê Hồng Hoa"
+      ],
+      "rooms": [
+        "9.3.22"
+      ],
+      "slots": [
+        {
+          "session": "Chiều",
+          "dayIndex": 2,
+          "period": "7-10",
+          "room": "9.3.22",
+          "lecturer": "Hà Lê Hồng Hoa"
+        },
+        {
+          "session": "Chiều",
+          "dayIndex": 4,
+          "period": "7-10",
+          "room": "9.3.22",
+          "lecturer": "Hà Lê Hồng Hoa"
+        }
+      ]
+    },
+    "Tiếng Anh 2": {
+      "name": "Tiếng Anh 2",
+      "lecturers": [
+        "Nguyễn Thị Mỹ Liên"
+      ],
+      "rooms": [
+        "Online"
+      ],
+      "slots": [
+        {
+          "session": "Sáng",
+          "dayIndex": 7,
+          "period": "1-4",
+          "room": "Online",
+          "lecturer": "Nguyễn Thị Mỹ Liên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 8,
+          "period": "1-4",
+          "room": "Online",
+          "lecturer": "Nguyễn Thị Mỹ Liên"
+        },
+        {
+          "session": "Chiều",
+          "dayIndex": 7,
+          "period": "7-10",
+          "room": "Online",
+          "lecturer": "Nguyễn Thị Mỹ Liên"
+        },
+        {
+          "session": "Chiều",
+          "dayIndex": 8,
+          "period": "7-10",
+          "room": "Online",
+          "lecturer": "Nguyễn Thị Mỹ Liên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 8,
+          "period": "1-4",
+          "room": "Online",
+          "lecturer": "Nguyễn Thị Mỹ Liên"
+        },
+        {
+          "session": "Chiều",
+          "dayIndex": 8,
+          "period": "7-10",
+          "room": "Online",
+          "lecturer": "Nguyễn Thị Mỹ Liên"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 7,
+          "period": "1-3",
+          "room": "Online",
+          "lecturer": "Nguyễn Thị Mỹ Liên"
+        },
+        {
+          "session": "Chiều",
+          "dayIndex": 7,
+          "period": "7-8",
+          "room": "Online",
+          "lecturer": "Nguyễn Thị Mỹ Liên"
+        }
+      ]
+    },
+    "Cơ sở dữ liệu": {
+      "name": "Cơ sở dữ liệu",
+      "lecturers": [
+        "Trương Hải"
+      ],
+      "rooms": [
+        "6.12"
+      ],
+      "slots": [
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-4",
+          "room": "6.12",
+          "lecturer": "Trương Hải"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-4",
+          "room": "6.12",
+          "lecturer": "Trương Hải"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-4",
+          "room": "6.12",
+          "lecturer": "Trương Hải"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-4",
+          "room": "6.12",
+          "lecturer": "Trương Hải"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-4",
+          "room": "6.12",
+          "lecturer": "Trương Hải"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-4",
+          "room": "6.12",
+          "lecturer": "Trương Hải"
+        },
+        {
+          "session": "Chiều",
+          "dayIndex": 5,
+          "period": "7-10",
+          "room": "6.12",
+          "lecturer": "Trương Hải"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-4",
+          "room": "6.12",
+          "lecturer": "Trương Hải"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-4",
+          "room": "6.12",
+          "lecturer": "Trương Hải"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-4",
+          "room": "6.12",
+          "lecturer": "Trương Hải"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-4",
+          "room": "6.12",
+          "lecturer": "Trương Hải"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 6,
+          "period": "1-4",
+          "room": "6.12",
+          "lecturer": "Trương Hải"
+        }
+      ]
+    },
+    "Tiếng Anh 1": {
+      "name": "Tiếng Anh 1",
+      "lecturers": [
+        "Đoàn Thị Dung"
+      ],
+      "rooms": [
+        "8.1.7",
+        "9.2.14"
+      ],
+      "slots": [
+        {
+          "session": "Sáng",
+          "dayIndex": 3,
+          "period": "1-3",
+          "room": "8.1.7",
+          "lecturer": "Đoàn Thị Dung"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 5,
+          "period": "1-2",
+          "room": "8.1.7",
+          "lecturer": "Đoàn Thị Dung"
+        },
+        {
+          "session": "Sáng",
+          "dayIndex": 2,
+          "period": "1-4",
+          "room": "9.2.14",
+          "lecturer": "Đoàn Thị Dung"
+        }
+      ]
+    }
+  },
+  "students": {
+    "23103003": {
+      "studentId": "23103003",
+      "fullName": "Nguyễn Thế Anh",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 5,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        }
+      ]
+    },
+    "23103004": {
+      "studentId": "23103004",
+      "fullName": "Nguyễn Tuấn Anh",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 5,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        }
+      ]
+    },
+    "23103005": {
+      "studentId": "23103005",
+      "fullName": "Đường Gia Bảo",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 0,
+      "slots": []
+    },
+    "23103006": {
+      "studentId": "23103006",
+      "fullName": "Mùa Thị Blồng",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 5,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        }
+      ]
+    },
+    "23103007": {
+      "studentId": "23103007",
+      "fullName": "Thái Thanh Cao",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 0,
+      "slots": []
+    },
+    "23103009": {
+      "studentId": "23103009",
+      "fullName": "Trương Quang Diệu",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 5,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        }
+      ]
+    },
+    "23103011": {
+      "studentId": "23103011",
+      "fullName": "Phạm Thế Duyệt",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 0,
+      "slots": []
+    },
+    "23103013": {
+      "studentId": "23103013",
+      "fullName": "Tiêu Viết Đại",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 0,
+      "slots": []
+    },
+    "23103014": {
+      "studentId": "23103014",
+      "fullName": "Đỗ Thị Hồng Điệp",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 5,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        }
+      ]
+    },
+    "23103015": {
+      "studentId": "23103015",
+      "fullName": "Trương Nông Đoài",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 7,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "TA chuyên ngành CNTT (1-4)",
+          "courseName": "TA chuyên ngành CNTT",
+          "period": "1-4",
+          "lecturer": "Nguyễn Thị Như",
+          "room": "6.9"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Chiều",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "TA chuyên ngành CNTT (9-10)",
+          "courseName": "TA chuyên ngành CNTT",
+          "period": "9-10",
+          "lecturer": "Nguyễn Thị Như",
+          "room": "6.14"
+        }
+      ]
+    },
+    "23103016": {
+      "studentId": "23103016",
+      "fullName": "Phạm Quang Đức",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 5,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        }
+      ]
+    },
+    "23103017": {
+      "studentId": "23103017",
+      "fullName": "Phạm Nguyễn Phúc Hào",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 5,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        }
+      ]
+    },
+    "23103018": {
+      "studentId": "23103018",
+      "fullName": "Trần Đức Hậu",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 0,
+      "slots": []
+    },
+    "23103019": {
+      "studentId": "23103019",
+      "fullName": "Hà Trung Hiếu",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 7,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Chiều",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "Tiếng Anh 3 (7-10)",
+          "courseName": "Tiếng Anh 3",
+          "period": "7-10",
+          "lecturer": "Hà Lê Hồng Hoa",
+          "room": "9.3.22"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Chiều",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Tiếng Anh 3 (7-10)",
+          "courseName": "Tiếng Anh 3",
+          "period": "7-10",
+          "lecturer": "Hà Lê Hồng Hoa",
+          "room": "9.3.22"
+        }
+      ]
+    },
+    "23103021": {
+      "studentId": "23103021",
+      "fullName": "Hồ Huy Hoàng",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 5,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        }
+      ]
+    },
+    "23103022": {
+      "studentId": "23103022",
+      "fullName": "Lê Xuân Hoàng",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 10,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 7,
+          "dayHeader": "Thứ 7  24/10",
+          "rawTitle": "Tiếng Anh 2 (1-4)",
+          "courseName": "Tiếng Anh 2",
+          "period": "1-4",
+          "lecturer": "Nguyễn Thị Mỹ Liên",
+          "room": "Online"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 8,
+          "dayHeader": "CN  25/10",
+          "rawTitle": "Tiếng Anh 2 (1-4)",
+          "courseName": "Tiếng Anh 2",
+          "period": "1-4",
+          "lecturer": "Nguyễn Thị Mỹ Liên",
+          "room": "Online"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Chiều",
+          "dayIndex": 7,
+          "dayHeader": "Thứ 7  24/10",
+          "rawTitle": "Tiếng Anh 2 (7-10)",
+          "courseName": "Tiếng Anh 2",
+          "period": "7-10",
+          "lecturer": "Nguyễn Thị Mỹ Liên",
+          "room": "Online"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Chiều",
+          "dayIndex": 8,
+          "dayHeader": "CN  25/10",
+          "rawTitle": "Tiếng Anh 2 (7-10)",
+          "courseName": "Tiếng Anh 2",
+          "period": "7-10",
+          "lecturer": "Nguyễn Thị Mỹ Liên",
+          "room": "Online"
+        },
+        {
+          "week": "Từ ngày 26/10/2026 đến ngày 01/11/2026",
+          "session": "Sáng",
+          "dayIndex": 8,
+          "dayHeader": "CN  01/11",
+          "rawTitle": "Tiếng Anh 2 (1-4)",
+          "courseName": "Tiếng Anh 2",
+          "period": "1-4",
+          "lecturer": "Nguyễn Thị Mỹ Liên",
+          "room": "Online"
+        },
+        {
+          "week": "Từ ngày 26/10/2026 đến ngày 01/11/2026",
+          "session": "Chiều",
+          "dayIndex": 8,
+          "dayHeader": "CN  01/11",
+          "rawTitle": "Tiếng Anh 2 (7-10)",
+          "courseName": "Tiếng Anh 2",
+          "period": "7-10",
+          "lecturer": "Nguyễn Thị Mỹ Liên",
+          "room": "Online"
+        },
+        {
+          "week": "Từ ngày 02/11/2026 đến ngày 08/11/2026",
+          "session": "Sáng",
+          "dayIndex": 7,
+          "dayHeader": "Thứ 7  07/11",
+          "rawTitle": "Tiếng Anh 2 (1-3)",
+          "courseName": "Tiếng Anh 2",
+          "period": "1-3",
+          "lecturer": "Nguyễn Thị Mỹ Liên",
+          "room": "Online"
+        },
+        {
+          "week": "Từ ngày 02/11/2026 đến ngày 08/11/2026",
+          "session": "Chiều",
+          "dayIndex": 7,
+          "dayHeader": "Thứ 7  07/11",
+          "rawTitle": "Tiếng Anh 2 (7-8)",
+          "courseName": "Tiếng Anh 2",
+          "period": "7-8",
+          "lecturer": "Nguyễn Thị Mỹ Liên",
+          "room": "Online"
+        }
+      ]
+    },
+    "23103023": {
+      "studentId": "23103023",
+      "fullName": "Nguyễn Huy Hoàng",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 5,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        }
+      ]
+    },
+    "23103024": {
+      "studentId": "23103024",
+      "fullName": "Trần Nguyễn Minh Hoàng",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 5,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        }
+      ]
+    },
+    "23103025": {
+      "studentId": "23103025",
+      "fullName": "Đàm Ngọc Huynh",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 5,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        }
+      ]
+    },
+    "23103026": {
+      "studentId": "23103026",
+      "fullName": "Nguyễn Thị Như Huynh",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 0,
+      "slots": []
+    },
+    "23103027": {
+      "studentId": "23103027",
+      "fullName": "Nguyễn Ngọc Hùng",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 5,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        }
+      ]
+    },
+    "23103028": {
+      "studentId": "23103028",
+      "fullName": "Chansida Inthakhong",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 5,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        }
+      ]
+    },
+    "23103029": {
+      "studentId": "23103029",
+      "fullName": "Y Kuin Kbuôr",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 17,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 26/10/2026 đến ngày 01/11/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  29/10",
+          "rawTitle": "Cơ sở dữ liệu (1-4)",
+          "courseName": "Cơ sở dữ liệu",
+          "period": "1-4",
+          "lecturer": "Trương Hải",
+          "room": "6.12"
+        },
+        {
+          "week": "Từ ngày 26/10/2026 đến ngày 01/11/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  30/10",
+          "rawTitle": "Cơ sở dữ liệu (1-4)",
+          "courseName": "Cơ sở dữ liệu",
+          "period": "1-4",
+          "lecturer": "Trương Hải",
+          "room": "6.12"
+        },
+        {
+          "week": "Từ ngày 02/11/2026 đến ngày 08/11/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  05/11",
+          "rawTitle": "Cơ sở dữ liệu (1-4)",
+          "courseName": "Cơ sở dữ liệu",
+          "period": "1-4",
+          "lecturer": "Trương Hải",
+          "room": "6.12"
+        },
+        {
+          "week": "Từ ngày 02/11/2026 đến ngày 08/11/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  06/11",
+          "rawTitle": "Cơ sở dữ liệu (1-4)",
+          "courseName": "Cơ sở dữ liệu",
+          "period": "1-4",
+          "lecturer": "Trương Hải",
+          "room": "6.12"
+        },
+        {
+          "week": "Từ ngày 09/11/2026 đến ngày 15/11/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  12/11",
+          "rawTitle": "Cơ sở dữ liệu (1-4)",
+          "courseName": "Cơ sở dữ liệu",
+          "period": "1-4",
+          "lecturer": "Trương Hải",
+          "room": "6.12"
+        },
+        {
+          "week": "Từ ngày 09/11/2026 đến ngày 15/11/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  13/11",
+          "rawTitle": "Cơ sở dữ liệu (1-4)",
+          "courseName": "Cơ sở dữ liệu",
+          "period": "1-4",
+          "lecturer": "Trương Hải",
+          "room": "6.12"
+        },
+        {
+          "week": "Từ ngày 09/11/2026 đến ngày 15/11/2026",
+          "session": "Chiều",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  12/11",
+          "rawTitle": "Cơ sở dữ liệu (7-10)",
+          "courseName": "Cơ sở dữ liệu",
+          "period": "7-10",
+          "lecturer": "Trương Hải",
+          "room": "6.12"
+        },
+        {
+          "week": "Từ ngày 16/11/2026 đến ngày 22/11/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  19/11",
+          "rawTitle": "Cơ sở dữ liệu (1-4)",
+          "courseName": "Cơ sở dữ liệu",
+          "period": "1-4",
+          "lecturer": "Trương Hải",
+          "room": "6.12"
+        },
+        {
+          "week": "Từ ngày 23/11/2026 đến ngày 29/11/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  26/11",
+          "rawTitle": "Cơ sở dữ liệu (1-4)",
+          "courseName": "Cơ sở dữ liệu",
+          "period": "1-4",
+          "lecturer": "Trương Hải",
+          "room": "6.12"
+        },
+        {
+          "week": "Từ ngày 23/11/2026 đến ngày 29/11/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  27/11",
+          "rawTitle": "Cơ sở dữ liệu (1-4)",
+          "courseName": "Cơ sở dữ liệu",
+          "period": "1-4",
+          "lecturer": "Trương Hải",
+          "room": "6.12"
+        },
+        {
+          "week": "Từ ngày 30/11/2026 đến ngày 06/12/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  03/12",
+          "rawTitle": "Cơ sở dữ liệu (1-4)",
+          "courseName": "Cơ sở dữ liệu",
+          "period": "1-4",
+          "lecturer": "Trương Hải",
+          "room": "6.12"
+        },
+        {
+          "week": "Từ ngày 30/11/2026 đến ngày 06/12/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  04/12",
+          "rawTitle": "Cơ sở dữ liệu (1-4)",
+          "courseName": "Cơ sở dữ liệu",
+          "period": "1-4",
+          "lecturer": "Trương Hải",
+          "room": "6.12"
+        }
+      ]
+    },
+    "23103030": {
+      "studentId": "23103030",
+      "fullName": "Nguyễn Đức Khang",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 5,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        }
+      ]
+    },
+    "23103031": {
+      "studentId": "23103031",
+      "fullName": "Rô Y Khang",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 5,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        }
+      ]
+    },
+    "23103032": {
+      "studentId": "23103032",
+      "fullName": "Trương Trần Quốc Khánh",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 5,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        }
+      ]
+    },
+    "23103033": {
+      "studentId": "23103033",
+      "fullName": "Lê Đình Khôi",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 0,
+      "slots": []
+    },
+    "23103034": {
+      "studentId": "23103034",
+      "fullName": "Bùi Anh Kiên",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 8,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tiếng Anh 1 (1-3)",
+          "courseName": "Tiếng Anh 1",
+          "period": "1-3",
+          "lecturer": "Đoàn Thị Dung",
+          "room": "8.1.7"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tiếng Anh 1 (1-2)",
+          "courseName": "Tiếng Anh 1",
+          "period": "1-2",
+          "lecturer": "Đoàn Thị Dung",
+          "room": "8.1.7"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 26/10/2026 đến ngày 01/11/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  26/10",
+          "rawTitle": "Tiếng Anh 1 (1-4)",
+          "courseName": "Tiếng Anh 1",
+          "period": "1-4",
+          "lecturer": "Đoàn Thị Dung",
+          "room": "9.2.14"
+        }
+      ]
+    },
+    "23103035": {
+      "studentId": "23103035",
+      "fullName": "Mai Đàm Thế Kiên",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 5,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        }
+      ]
+    },
+    "23103037": {
+      "studentId": "23103037",
+      "fullName": "Ngô Tuấn Kiệt",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 5,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        }
+      ]
+    },
+    "23103038": {
+      "studentId": "23103038",
+      "fullName": "H Nhung Ksơr",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 0,
+      "slots": []
+    },
+    "23103039": {
+      "studentId": "23103039",
+      "fullName": "Y Get Ktla",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 0,
+      "slots": []
+    },
+    "23103040": {
+      "studentId": "23103040",
+      "fullName": "Vũ Trúc Lam",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 5,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        }
+      ]
+    },
+    "23103041": {
+      "studentId": "23103041",
+      "fullName": "Hoàng Thị Lan",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 5,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        }
+      ]
+    },
+    "23103042": {
+      "studentId": "23103042",
+      "fullName": "Nguyễn Đình Long",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 5,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        }
+      ]
+    },
+    "23103043": {
+      "studentId": "23103043",
+      "fullName": "Nguyễn Quốc Hoàng Long",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 5,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        }
+      ]
+    },
+    "23103044": {
+      "studentId": "23103044",
+      "fullName": "Đào Đức Lương",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 0,
+      "slots": []
+    },
+    "23103045": {
+      "studentId": "23103045",
+      "fullName": "Trần Xuân Lương",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 5,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        }
+      ]
+    },
+    "23103047": {
+      "studentId": "23103047",
+      "fullName": "Phạm Minh Lý",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 5,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        }
+      ]
+    },
+    "23103050": {
+      "studentId": "23103050",
+      "fullName": "An Mitsacheu",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 5,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        }
+      ]
+    },
+    "23103051": {
+      "studentId": "23103051",
+      "fullName": "H - Gen Mlô",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 0,
+      "slots": []
+    },
+    "23103052": {
+      "studentId": "23103052",
+      "fullName": "Y Milô Mlô",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 0,
+      "slots": []
+    },
+    "23103053": {
+      "studentId": "23103053",
+      "fullName": "Lê Hoài Nam",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 0,
+      "slots": []
+    },
+    "23103054": {
+      "studentId": "23103054",
+      "fullName": "Đặng Nguyễn Minh Nguyệt",
+      "major": "Công nghệ thông tin",
+      "cohort": "K23",
+      "slotsCount": 5,
+      "slots": [
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 2,
+          "dayHeader": "Thứ 2  19/10",
+          "rawTitle": "LS Đảng CS VN (1-4)",
+          "courseName": "LS Đảng CS VN",
+          "period": "1-4",
+          "lecturer": "Đoàn Văn Kỳ",
+          "room": "6.11"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 3,
+          "dayHeader": "Thứ 3  20/10",
+          "rawTitle": "Tâm lý học đại cương (1-4)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-4",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 4,
+          "dayHeader": "Thứ 4  21/10",
+          "rawTitle": "Lập trình di động (1-4)",
+          "courseName": "Lập trình di động",
+          "period": "1-4",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 5,
+          "dayHeader": "Thứ 5  22/10",
+          "rawTitle": "Tâm lý học đại cương (1-2)",
+          "courseName": "Tâm lý học đại cương",
+          "period": "1-2",
+          "lecturer": "Lê Tô Đỗ Quyên",
+          "room": "2.4"
+        },
+        {
+          "week": "Từ ngày 19/10/2026 đến ngày 25/10/2026",
+          "session": "Sáng",
+          "dayIndex": 6,
+          "dayHeader": "Thứ 6  23/10",
+          "rawTitle": "Những VĐ HĐ của CNTT (1-3)",
+          "courseName": "Những VĐ HĐ của CNTT",
+          "period": "1-3",
+          "lecturer": "Trương Thị Hương Giang",
+          "room": "7.3.18"
+        }
+      ]
+    }
+  }
+}

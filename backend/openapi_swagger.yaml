@@ -1,0 +1,143 @@
+openapi: 3.0.3
+info:
+  title: UniPlan AI - Hệ Thống Lập Kế Hoạch Đăng Ký Tín Chỉ Thông Minh TTN
+  description: RESTful API Backend phục vụ ứng dụng UniPlan AI tích hợp quy chế đào tạo tín chỉ Đại học Tây Nguyên.
+  version: 2.0.0
+  contact:
+    name: Ban Đào tạo & Khoa CNTT Trường Đại học Tây Nguyên
+    url: https://ttn.edu.vn
+servers:
+  - url: http://localhost:8000/api/v1
+    description: Local Development & Mock Server
+  - url: https://api.uniplan.ttn.edu.vn/v1
+    description: Production Server
+
+paths:
+  /auth/login:
+    post:
+      summary: Đăng nhập sinh viên qua MSSV cổng TTN
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required:
+                - mssv
+              properties:
+                mssv:
+                  type: string
+                  example: "23103022"
+                password:
+                  type: string
+                  example: "********"
+      responses:
+        '200':
+          description: Đăng nhập thành công, trả về JWT Token và User Profile
+        '401':
+          description: Sai thông tin xác thực
+
+  /courses:
+    get:
+      summary: Lấy danh sách các môn học mở đăng ký trong học kỳ
+      parameters:
+        - name: semester
+          in: query
+          schema:
+            type: string
+            example: "1"
+        - name: department
+          in: query
+          schema:
+            type: string
+            example: "Khoa Kỹ thuật - Công nghệ"
+      responses:
+        '200':
+          description: Danh sách học phần kèm các lớp mở, giảng viên, sĩ số và ca học
+
+  /majors:
+    get:
+      summary: Lấy danh mục các khoa và ngành đào tạo của Trường ĐH Tây Nguyên
+      responses:
+        '200':
+          description: Danh sách ngành đào tạo
+
+  /schedule/solve:
+    post:
+      summary: Chạy thuật toán CSP & Heuristic Ranking xếp lịch tự động tối ưu
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required:
+                - targetCourseCodes
+              properties:
+                targetCourseCodes:
+                  type: array
+                  items:
+                    type: string
+                  example: ["KC212604", "KC213613", "KC215046"]
+                criteria:
+                  type: object
+                  properties:
+                    avoidEarlyMorning:
+                      type: boolean
+                      example: true
+                    noWeekend:
+                      type: boolean
+                      example: true
+                    freeFriday:
+                      type: boolean
+                      example: true
+                    preferMorning:
+                      type: boolean
+                      example: true
+                    preferAfternoon:
+                      type: boolean
+                      example: false
+                    minimizeDays:
+                      type: boolean
+                      example: true
+                    avoidWindowPeriods:
+                      type: boolean
+                      example: true
+                    preferHighRatingLecturers:
+                      type: boolean
+                      example: true
+      responses:
+        '200':
+          description: Danh sách 3 đến 5 phương án xếp lịch tối ưu xếp theo điểm Score
+
+  /schedule/sync:
+    post:
+      summary: Đồng bộ phương án thời khóa biểu của sinh viên lên Cloud TTN
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required:
+                - mssv
+                - plans
+              properties:
+                mssv:
+                  type: string
+                  example: "23103022"
+                plans:
+                  type: array
+                  items:
+                    type: object
+      responses:
+        '200':
+          description: Đồng bộ thành công
+
+  /crawler/trigger:
+    post:
+      summary: Kích hoạt worker thu thập và trích xuất dữ liệu lớp học phần từ ttn.edu.vn
+      responses:
+        '200':
+          description: Worker đã tiếp nhận tác vụ crawl
+

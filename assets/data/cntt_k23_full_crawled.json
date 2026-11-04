@@ -1,0 +1,1012 @@
+{
+  "23103003": {
+    "studentId": "23103003",
+    "fullName": "Nguyễn Thế Anh",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103004": {
+    "studentId": "23103004",
+    "fullName": "Nguyễn Tuấn Anh",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103005": {
+    "studentId": "23103005",
+    "fullName": "Đường Gia Bảo",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 0,
+    "courses": [],
+    "exists": true
+  },
+  "23103006": {
+    "studentId": "23103006",
+    "fullName": "Mùa Thị Blồng",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103007": {
+    "studentId": "23103007",
+    "fullName": "Thái Thanh Cao",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 0,
+    "courses": [],
+    "exists": true
+  },
+  "23103009": {
+    "studentId": "23103009",
+    "fullName": "Trương Quang Diệu",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103011": {
+    "studentId": "23103011",
+    "fullName": "Phạm Thế Duyệt",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 0,
+    "courses": [],
+    "exists": true
+  },
+  "23103013": {
+    "studentId": "23103013",
+    "fullName": "Tiêu Viết Đại",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 0,
+    "courses": [],
+    "exists": true
+  },
+  "23103014": {
+    "studentId": "23103014",
+    "fullName": "Đỗ Thị Hồng Điệp",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103015": {
+    "studentId": "23103015",
+    "fullName": "Trương Nông Đoài",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 7,
+    "courses": [
+      "Tâm lý học đại cương ",
+      "TA chuyên ngành CNTT ",
+      "Những VĐ HĐ của CNTT ",
+      "LS Đảng CS VN ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103016": {
+    "studentId": "23103016",
+    "fullName": "Phạm Quang Đức",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103017": {
+    "studentId": "23103017",
+    "fullName": "Phạm Nguyễn Phúc Hào",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103018": {
+    "studentId": "23103018",
+    "fullName": "Trần Đức Hậu",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 0,
+    "courses": [],
+    "exists": true
+  },
+  "23103019": {
+    "studentId": "23103019",
+    "fullName": "Hà Trung Hiếu",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 7,
+    "courses": [
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "LS Đảng CS VN ",
+      "Tiếng Anh 3 ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103021": {
+    "studentId": "23103021",
+    "fullName": "Hồ Huy Hoàng",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103022": {
+    "studentId": "23103022",
+    "fullName": "Lê Xuân Hoàng",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 10,
+    "courses": [
+      "Tiếng Anh 2 ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103023": {
+    "studentId": "23103023",
+    "fullName": "Nguyễn Huy Hoàng",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103024": {
+    "studentId": "23103024",
+    "fullName": "Trần Nguyễn Minh Hoàng",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103025": {
+    "studentId": "23103025",
+    "fullName": "Đàm Ngọc Huynh",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103026": {
+    "studentId": "23103026",
+    "fullName": "Nguyễn Thị Như Huynh",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 0,
+    "courses": [],
+    "exists": true
+  },
+  "23103027": {
+    "studentId": "23103027",
+    "fullName": "Nguyễn Ngọc Hùng",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103028": {
+    "studentId": "23103028",
+    "fullName": "Chansida Inthakhong",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103029": {
+    "studentId": "23103029",
+    "fullName": "Y Kuin Kbuôr",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 17,
+    "courses": [
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "LS Đảng CS VN ",
+      "Lập trình di động ",
+      "Cơ sở dữ liệu "
+    ],
+    "exists": true
+  },
+  "23103030": {
+    "studentId": "23103030",
+    "fullName": "Nguyễn Đức Khang",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103031": {
+    "studentId": "23103031",
+    "fullName": "Rô Y Khang",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103032": {
+    "studentId": "23103032",
+    "fullName": "Trương Trần Quốc Khánh",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103033": {
+    "studentId": "23103033",
+    "fullName": "Lê Đình Khôi",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 0,
+    "courses": [],
+    "exists": true
+  },
+  "23103034": {
+    "studentId": "23103034",
+    "fullName": "Bùi Anh Kiên",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 8,
+    "courses": [
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "LS Đảng CS VN ",
+      "Lập trình di động ",
+      "Tiếng Anh 1 "
+    ],
+    "exists": true
+  },
+  "23103035": {
+    "studentId": "23103035",
+    "fullName": "Mai Đàm Thế Kiên",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103037": {
+    "studentId": "23103037",
+    "fullName": "Ngô Tuấn Kiệt",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103038": {
+    "studentId": "23103038",
+    "fullName": "H Nhung Ksơr",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 0,
+    "courses": [],
+    "exists": true
+  },
+  "23103039": {
+    "studentId": "23103039",
+    "fullName": "Y Get Ktla",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 0,
+    "courses": [],
+    "exists": true
+  },
+  "23103040": {
+    "studentId": "23103040",
+    "fullName": "Vũ Trúc Lam",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103041": {
+    "studentId": "23103041",
+    "fullName": "Hoàng Thị Lan",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103042": {
+    "studentId": "23103042",
+    "fullName": "Nguyễn Đình Long",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103043": {
+    "studentId": "23103043",
+    "fullName": "Nguyễn Quốc Hoàng Long",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103044": {
+    "studentId": "23103044",
+    "fullName": "Đào Đức Lương",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 0,
+    "courses": [],
+    "exists": true
+  },
+  "23103045": {
+    "studentId": "23103045",
+    "fullName": "Trần Xuân Lương",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103047": {
+    "studentId": "23103047",
+    "fullName": "Phạm Minh Lý",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103050": {
+    "studentId": "23103050",
+    "fullName": "An Mitsacheu",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103051": {
+    "studentId": "23103051",
+    "fullName": "H - Gen Mlô",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 0,
+    "courses": [],
+    "exists": true
+  },
+  "23103052": {
+    "studentId": "23103052",
+    "fullName": "Y Milô Mlô",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 0,
+    "courses": [],
+    "exists": true
+  },
+  "23103053": {
+    "studentId": "23103053",
+    "fullName": "Lê Hoài Nam",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 0,
+    "courses": [],
+    "exists": true
+  },
+  "23103054": {
+    "studentId": "23103054",
+    "fullName": "Đặng Nguyễn Minh Nguyệt",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103055": {
+    "studentId": "23103055",
+    "fullName": "Huỳnh Minh Nguyệt",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 0,
+    "courses": [],
+    "exists": true
+  },
+  "23103057": {
+    "studentId": "23103057",
+    "fullName": "Nguyễn Thị Yến Nhi",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103059": {
+    "studentId": "23103059",
+    "fullName": "Nguyễn Thị Kim Oanh",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103060": {
+    "studentId": "23103060",
+    "fullName": "Phùng Huy Phát",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103061": {
+    "studentId": "23103061",
+    "fullName": "Ma A Phúc",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103062": {
+    "studentId": "23103062",
+    "fullName": "La Văn Quang",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 0,
+    "courses": [],
+    "exists": true
+  },
+  "23103064": {
+    "studentId": "23103064",
+    "fullName": "Phạm Ngọc Quốc",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 0,
+    "courses": [],
+    "exists": true
+  },
+  "23103065": {
+    "studentId": "23103065",
+    "fullName": "K Văn Sang",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103066": {
+    "studentId": "23103066",
+    "fullName": "Phạm Đức Tài",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103068": {
+    "studentId": "23103068",
+    "fullName": "Nguyễn Phan Đình Thái",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 0,
+    "courses": [],
+    "exists": true
+  },
+  "23103069": {
+    "studentId": "23103069",
+    "fullName": "Phạm Trung Thành",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103070": {
+    "studentId": "23103070",
+    "fullName": "Huỳnh Minh Thắng",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103071": {
+    "studentId": "23103071",
+    "fullName": "Nguyễn Văn Thắng",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103072": {
+    "studentId": "23103072",
+    "fullName": "Khằm Quốc Thi",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 0,
+    "courses": [],
+    "exists": true
+  },
+  "23103075": {
+    "studentId": "23103075",
+    "fullName": "Lương Thanh Thiên",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103076": {
+    "studentId": "23103076",
+    "fullName": "Nguyễn Trần Văn Thịnh",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 23,
+    "courses": [
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "LS Đảng CS VN ",
+      "Lập trình di động ",
+      "Tiếng Anh 1 ",
+      "TH"
+    ],
+    "exists": true
+  },
+  "23103077": {
+    "studentId": "23103077",
+    "fullName": "Đỗ Trọng Thông",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 0,
+    "courses": [],
+    "exists": true
+  },
+  "23103078": {
+    "studentId": "23103078",
+    "fullName": "Nguyễn Trí Thức",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103080": {
+    "studentId": "23103080",
+    "fullName": "Bùi Anh Tiến",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103082": {
+    "studentId": "23103082",
+    "fullName": "Lê Đình Trung",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 0,
+    "courses": [],
+    "exists": true
+  },
+  "23103083": {
+    "studentId": "23103083",
+    "fullName": "Nguyễn Đình Trung",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103084": {
+    "studentId": "23103084",
+    "fullName": "Nguyễn Ngọc Trung",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103086": {
+    "studentId": "23103086",
+    "fullName": "Nguyễn Ngọc Tuấn",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103087": {
+    "studentId": "23103087",
+    "fullName": "Phan Anh Tuấn",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103089": {
+    "studentId": "23103089",
+    "fullName": "Nguyễn Hoàng Việt",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103091": {
+    "studentId": "23103091",
+    "fullName": "Lương Hoàng Vũ",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103094": {
+    "studentId": "23103094",
+    "fullName": "Huỳnh Lê Kim Yến",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103095": {
+    "studentId": "23103095",
+    "fullName": "Nguyễn Thị Mỹ Duyên",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103096": {
+    "studentId": "23103096",
+    "fullName": "Lê Quang Hà",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 0,
+    "courses": [],
+    "exists": true
+  },
+  "23103097": {
+    "studentId": "23103097",
+    "fullName": "Lý Tiểu Hân",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103099": {
+    "studentId": "23103099",
+    "fullName": "Phan Đức Lợi",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103100": {
+    "studentId": "23103100",
+    "fullName": "Võ Văn Lợi",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103102": {
+    "studentId": "23103102",
+    "fullName": "Vi Công Nguyên",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103106": {
+    "studentId": "23103106",
+    "fullName": "H'-uyên Hlong",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 5,
+    "courses": [
+      "LS Đảng CS VN ",
+      "Tâm lý học đại cương ",
+      "Những VĐ HĐ của CNTT ",
+      "Lập trình di động "
+    ],
+    "exists": true
+  },
+  "23103108": {
+    "studentId": "23103108",
+    "fullName": "Kiều Đình Lương",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 0,
+    "courses": [],
+    "exists": true
+  },
+  "23103109": {
+    "studentId": "23103109",
+    "fullName": "Nguyễn Bảo Ngọc",
+    "major": "Công nghệ thông tin",
+    "cohort": "K23",
+    "slotsCount": 0,
+    "courses": [],
+    "exists": true
+  }
+}
