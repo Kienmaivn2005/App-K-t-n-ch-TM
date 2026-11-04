@@ -48,6 +48,9 @@
 - **Mã chia sẻ cấu hình (Share Code Base64)**: Sinh viên sao chép mã gửi cho bạn bè để học cùng lớp chỉ với 1 click nhập mã.
 - **Bản in ấn & tóm tắt text**: Sao chép tóm tắt TKB đẹp mắt gửi qua Zalo/Messenger hoặc in ra giấy.
 
+
+
+
 ---
 
 ## 🏗️ Cấu Trúc Mã Nguồn
@@ -111,5 +114,4 @@ Thư mục xuất bản sẵn sàng để deploy lên GitHub Pages, Vercel, Netl
 ```powershell
 flutter test
 ```
-#   A p p - K - t - n - c h - T M  
- 
+\
