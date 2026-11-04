@@ -1,45 +1,118 @@
-# Miscellaneous
-*.class
-*.log
-*.pyc
-*.swp
-.DS_Store
-.atom/
-.build/
-.buildlog/
-.history
-.svn/
-.swiftpm/
-migrate_working_dir/
+# ==============================================================================
+# UNIPLAN AI - GITIGNORE CONFIGURATION (FLUTTER & PYTHON FULL-STACK)
+# ==============================================================================
 
-# IntelliJ related
-*.iml
-*.ipr
-*.iws
-.idea/
-
-# The .vscode folder contains launch configuration and tasks you configure in
-# VS Code which you may wish to be included in version control, so this line
-# is commented out by default.
-#.vscode/
-
-# Flutter/Dart/Pub related
-**/doc/api/
-**/ios/Flutter/.last_build_id
+# ------------------------------------------------------------------------------
+# 1. FLUTTER & DART
+# ------------------------------------------------------------------------------
 .dart_tool/
+.dart_local/
+.flutter-plugins
 .flutter-plugins-dependencies
+.packages
 .pub-cache/
 .pub/
 /build/
 /coverage/
-
-# Symbolication related
+**/doc/api/
 app.*.symbols
-
-# Obfuscation related
 app.*.map.json
 
-# Android Studio will place build artifacts here
-/android/app/debug
-/android/app/profile
-/android/app/release
+# ------------------------------------------------------------------------------
+# 2. ANDROID
+# ------------------------------------------------------------------------------
+**/android/.gradle/
+**/android/captures/
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+*.keystore
+*.jks
+
+# ------------------------------------------------------------------------------
+# 3. IOS & MACOS
+# ------------------------------------------------------------------------------
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/app.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/profile
+**/ios/release
+**/ios/DerivedData/
+**/macos/Flutter/ephemeral/
+**/macos/Pods/
+
+# ------------------------------------------------------------------------------
+# 4. WINDOWS & LINUX DESKTOP
+# ------------------------------------------------------------------------------
+**/windows/flutter/ephemeral/
+**/windows/CMakeCache.txt
+**/windows/CMakeFiles/
+**/linux/flutter/ephemeral/
+
+# ------------------------------------------------------------------------------
+# 5. PYTHON & BACKEND WORKERS
+# ------------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+.pytest_cache/
+*.egg-info/
+dist/
+*.egg
+
+# ------------------------------------------------------------------------------
+# 6. IDEs & EDITORS
+# ------------------------------------------------------------------------------
+.idea/
+*.iml
+*.ipr
+*.iws
+.history/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# ------------------------------------------------------------------------------
+# 7. OPERATING SYSTEM & TEMPORARY FILES
+# ------------------------------------------------------------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+scratch/
+temp/
+tmp/
+migrate_working_dir/
+
+# ------------------------------------------------------------------------------
+# 8. ENVIRONMENT & CREDENTIALS
+# ------------------------------------------------------------------------------
+.env
+.env*.local
+*.pem
+*.key
